@@ -1,2 +1,2 @@
 # Personal profile
-Website: [stefanbalaban.com](stefanbalaban.com)
+contact@stefanbalaban.com
