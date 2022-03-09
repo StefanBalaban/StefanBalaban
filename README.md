@@ -1,2 +1,2 @@
 # Personal profile
-Website [stefanbalaban.com](stefanbalaban.com)
+Website: [stefanbalaban.com](stefanbalaban.com)
